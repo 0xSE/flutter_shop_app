@@ -1,6 +1,7 @@
 # flutter_app_shop_app
 
 A new Flutter application.
+online electronics store
 
 ![Screenshot_1628782093](https://user-images.githubusercontent.com/67038060/129224724-b4f18fe0-7307-4362-a70e-e665d50f8410.png)
 ![Screenshot_1628782097](https://user-images.githubusercontent.com/67038060/129224733-438c9ae2-3696-4477-8fa5-348d9eafbc8e.png)
